@@ -11,6 +11,8 @@ This is a tool which helps to calculate the daily food expenses. For implementin
 </ul>
 <h2>Product images</h2>
 
-<img src = "imgs/excel1.jpg">
+<img src = "imgs/excel1.png">
 <hr>
-<img src="imgs/emailsample.jpg">
+<img src = "imgs/excel2.png">
+<hr>
+<img src="imgs/emailsample.png">
